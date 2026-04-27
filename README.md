@@ -8,6 +8,9 @@ Pietra Ruiz, <br>
 Stefany Anne, <br>
 Maria Eduarda Souza <br>
 
+## Professor Orientador: <br>
+Adriano Felix Valente
+
 ## O que é o jogo, Vortex-Runner? 🌀
 
 <p>
