@@ -14,6 +14,6 @@ Adriano Felix Valente
 ## O que é o jogo, Vortex-Runner? 🌀
 
 <p>
-  
+  Vortex Runner é um jogo inspirado no jogo casual de ação (hole.io), onde o jogador é um vórtice/buraco que começa pequeno e que para progredir é necessário engolir objetos para crescer dentro do tempo estipulado no jogo.
 </p>
 
