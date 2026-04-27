@@ -4677,8 +4677,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09390d7282c9aed44938b3de23068489, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TimeManager
-  tempoRestante: 10
-  textoCronometro: {fileID: 1435040008}
+  tempoRestante: 5
+  textoTempo: {fileID: 1435040008}
 --- !u!4 &1429903726
 Transform:
   m_ObjectHideFlags: 0
