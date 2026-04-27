@@ -16,8 +16,8 @@ TagManager:
   - Ground
   - GroundHole
   - Obstacles
-  - 
-  - 
+  - ShaderHole
+  - ShaderHoleMask
   - 
   - 
   - 
